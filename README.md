@@ -1,14 +1,14 @@
 # ASEAN Quantum Summit 2025 📸
 
-# Date : 11 December 2025
+Date : 11 December 2025
  
-# I attended the ASEAN Quantum Summit 2025 officiation ceremony. The event featured speeches from the Vice Chancellor of UTM and the Chief Minister of Johor, and the ceremony included the exchange of memoranda of understanding.
+I attended the ASEAN Quantum Summit 2025 officiation ceremony. The event featured speeches from the Vice Chancellor of UTM and the Chief Minister of Johor, and the ceremony included the exchange of memoranda of understanding.
 
-# I gained new knowledge from the plenary talk by Prof. Dr Masahiro Kitagawa on quantum computing and quantum innovation in Japan. He explained Japan’s quantum strategy, the promise of quantum computers, the current status of quantum computing and the challenges toward fault-tolerant quantum computing, as well as QIQB at the University of Osaka.
+I gained new knowledge from the plenary talk by Prof. Dr Masahiro Kitagawa on quantum computing and quantum innovation in Japan. He explained Japan’s quantum strategy, the promise of quantum computers, the current status of quantum computing and the challenges toward fault-tolerant quantum computing, as well as QIQB at the University of Osaka.
 
-# I also learnt about quantum strategy and building global partnerships from Mr Ling Keok Tong. He focused on application domains, platform capabilities, hybrid computing infrastructure and future-ready resources.
+I also learnt about quantum strategy and building global partnerships from Mr Ling Keok Tong. He focused on application domains, platform capabilities, hybrid computing infrastructure and future-ready resources.
 
-# Overall, this event strengthened my understanding of how academia, industry and governments collaborate to advance quantum technologies.
+Overall, this event strengthened my understanding of how academia, industry and governments collaborate to advance quantum technologies.
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a2d60471-0cc7-4bb5-8b5a-fea0029df702" />
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5d72d233-1fd1-45a7-b8c1-e67979f526dc" />
